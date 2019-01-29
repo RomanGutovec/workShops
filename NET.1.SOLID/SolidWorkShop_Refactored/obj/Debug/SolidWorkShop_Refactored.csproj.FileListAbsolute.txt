@@ -1,0 +1,5 @@
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\SolidWorkShop_Refactored\obj\Debug\SolidWorkShop_Refactored.csproj.CoreCompileInputs.cache
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\SolidWorkShop_Refactored\bin\Debug\SolidWorkShop_Refactored.dll
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\SolidWorkShop_Refactored\bin\Debug\SolidWorkShop_Refactored.pdb
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\SolidWorkShop_Refactored\obj\Debug\SolidWorkShop_Refactored.dll
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\SolidWorkShop_Refactored\obj\Debug\SolidWorkShop_Refactored.pdb

@@ -1,0 +1,8 @@
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\obj\Debug\DependencyResolver.csproj.CoreCompileInputs.cache
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\bin\Debug\Ninject.dll
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\bin\Debug\Ninject.xml
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\obj\Debug\DependencyResolver.csproj.CopyComplete
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\VS2017Temp\WorkShops\NET.1.SOLID\solid\DependencyResolver\obj\Debug\DependencyResolver.pdb

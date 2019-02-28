@@ -80,6 +80,7 @@ namespace SampleQueries
         {
             var customers =
                 from c in dataSource.Customers
+                where c.Orders.Length!=0
                 select new { c.CustomerID, data = c.Orders.Min(o => o.OrderDate) };
 
             foreach (var c in customers)

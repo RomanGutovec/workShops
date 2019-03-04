@@ -5,9 +5,13 @@ namespace Example
     {
         static void Main(string[] args)
         {
-            new SomeService().DoSmth();
+            var service = new SomeService();
+            service.DoSmth();
+            service.PrintCustomersWithOrders();
 
             Console.WriteLine("Main Completed");
+            
+            Console.ReadLine();
         }
     }
 }

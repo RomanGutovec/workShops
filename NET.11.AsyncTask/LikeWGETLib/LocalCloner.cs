@@ -52,9 +52,6 @@ namespace LikeWGETLib
 
                 foreach (var item in uries)
                 {
-                    Console.WriteLine("Works....");
-
-                    Console.WriteLine(pathToSave + $"{ item.OriginalString.Replace("/", "")}");
                     if (!item.IsAbsoluteUri)
                     {
                         await Clone("http://" + new Uri(path).Host + item.OriginalString, pathToSave, level - 1).ConfigureAwait(false);
@@ -64,7 +61,6 @@ namespace LikeWGETLib
                         await Clone(item.OriginalString, pathToSave, level - 1).ConfigureAwait(false);
                     }
 
-                    Console.WriteLine(item);
                 }
                 --level;
             }
@@ -136,8 +132,6 @@ namespace LikeWGETLib
                         }
                     }
                 }
-
-                Console.WriteLine("Parse links finished");
             }
 
             return uries.Distinct().ToList();
@@ -151,7 +145,6 @@ namespace LikeWGETLib
 
             foreach (IDomObject obj in dom.Find("img"))
             {
-                Console.WriteLine(obj.GetAttribute("src"));
                 if (Uri.IsWellFormedUriString(obj.GetAttribute("src"), UriKind.RelativeOrAbsolute))
                 {
                     Uri.TryCreate(obj.GetAttribute("src"), UriKind.RelativeOrAbsolute, out Uri uriToAdd);
@@ -160,8 +153,6 @@ namespace LikeWGETLib
                         uries.Add(uriToAdd);
                     }
                 }
-
-                Console.WriteLine("Parse source finished");
             }
 
             return uries.Distinct().ToList();

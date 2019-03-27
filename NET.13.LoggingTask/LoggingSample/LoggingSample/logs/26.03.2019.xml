@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Start getting all customers.</Message>
+  <TimeStamp>2019-03-26T15:23:35.2298396+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Retrieving customers to response.</Message>
+  <TimeStamp>2019-03-26T15:23:36.7679276+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Start getting customer with id 2.</Message>
+  <TimeStamp>2019-03-26T15:23:44.1603504+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Retrieving customer with id 2 to response.</Message>
+  <TimeStamp>2019-03-26T15:23:44.1813516+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Start getting all customers.</Message>
+  <TimeStamp>2019-03-26T15:27:54.1016463+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Retrieving customers to response.</Message>
+  <TimeStamp>2019-03-26T15:27:56.1867655+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Start getting customer with id 2.</Message>
+  <TimeStamp>2019-03-26T15:28:04.4332372+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Retrieving customer with id 2 to response.</Message>
+  <TimeStamp>2019-03-26T15:28:04.4632389+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Start getting all orders.</Message>
+  <TimeStamp>2019-03-26T15:28:10.4835832+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Retrieving orders to response.</Message>
+  <TimeStamp>2019-03-26T15:28:10.4955839+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Start getting all orders.</Message>
+  <TimeStamp>2019-03-26T15:29:11.9290977+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Retrieving orders to response.</Message>
+  <TimeStamp>2019-03-26T15:29:11.9290977+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Start getting all customers.</Message>
+  <TimeStamp>2019-03-26T15:35:16.0749257+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+  <Message>Retrieving customers to response.</Message>
+  <TimeStamp>2019-03-26T15:35:17.8030245+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\CustomersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Start getting all orders.</Message>
+  <TimeStamp>2019-03-26T15:35:24.7744233+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage><?xml version="1.0"?>
+<LogMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <MachineName>ROMAN-ПК</MachineName>
+  <LoggerName>LoggingSample.Controllers.OrdersController</LoggerName>
+  <Message>Retrieving orders to response.</Message>
+  <TimeStamp>2019-03-26T15:35:24.7904242+03:00</TimeStamp>
+  <Level>Info</Level>
+  <MessageSource>D:\WORKSHOP_HW\Logging\HW\LoggingSample\LoggingSample\Controllers\OrdersController.cs</MessageSource>
+</LogMessage>
